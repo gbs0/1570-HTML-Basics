@@ -1,0 +1,32 @@
+/* TODO: design your profile with CSS */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;600&family=Open+Sans:wght@300;400;500&display=swap');
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+#title {
+  color: blue;
+}
+
+.text-red {
+  color: red;
+}
+
+.icon {
+  font-size: 60px;
+}
+
+.white-box {
+  text-align: center;
+  width: 600px;
+  padding: 18px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 0 auto;
+  margin-bottom: 28px;
+}
+
+.avatar {
+  height: 200px;
+  border-radius: 50%;
+}
